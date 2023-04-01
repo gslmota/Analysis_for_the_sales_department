@@ -37,17 +37,17 @@ pip install -r requirements.txt
 
 * Average number of customers per month
 
-![!imgs](https://github.com/gslmota/A_data_analysis_for_a_bank-s_marketing_department/blob/main/imgs/elb.png)
+![!imgs](https://github.com/gslmota/Analysis_for_the_sales_department/blob/main/imgs/mcm.png)
 
 * Average monthly sales
 
-![!imgs](https://github.com/gslmota/A_data_analysis_for_a_bank-s_marketing_department/blob/main/imgs/pca.png)
+![!imgs](https://github.com/gslmota/Analysis_for_the_sales_department/blob/main/imgs/mm.png)
 
 
 * Facebook Profhet sales prediction
 
-![!imgs](https://github.com/gslmota/A_data_analysis_for_a_bank-s_marketing_department/blob/main/imgs/pcaAu.png)
+![!imgs](https://github.com/gslmota/Analysis_for_the_sales_department/blob/main/imgs/profhet.png)
 
 
-![!imgs](https://github.com/gslmota/A_data_analysis_for_a_bank-s_marketing_department/blob/main/imgs/pca2.png)
+![!imgs](https://github.com/gslmota/Analysis_for_the_sales_department/blob/main/imgs/py.png)
 
