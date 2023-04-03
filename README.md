@@ -51,3 +51,6 @@ pip install -r requirements.txt
 
 ![!imgs](https://github.com/gslmota/Analysis_for_the_sales_department/blob/main/imgs/py.png)
 
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
